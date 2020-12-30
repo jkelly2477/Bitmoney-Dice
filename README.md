@@ -34,3 +34,4 @@ Then visit <http://localhost:5000>
 ## License
 
 MIT
+<a href="http://www.freebiebitcoin.com">Earn free bitcoin</a>
